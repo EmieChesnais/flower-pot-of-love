@@ -1,0 +1,18 @@
+.banner{
+    background-image: url(../../images/fleurs.jpeg);
+    color:  white;
+    padding: 150px 0px;
+    background-size: cover;
+    background-image: center;
+}
+
+.banner h1 {
+	font-size: 90px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-wn eight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
